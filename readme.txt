@@ -1,0 +1,1 @@
+file htaccess.htaccess must be rename as noname file before use it
